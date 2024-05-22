@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mgsurvey/static/css/main.a831bdce.css",
+    "main.js": "/mgsurvey/static/js/main.f9a07e62.js",
+    "static/js/453.4a7f32e0.chunk.js": "/mgsurvey/static/js/453.4a7f32e0.chunk.js",
+    "index.html": "/mgsurvey/index.html",
+    "main.a831bdce.css.map": "/mgsurvey/static/css/main.a831bdce.css.map",
+    "main.f9a07e62.js.map": "/mgsurvey/static/js/main.f9a07e62.js.map",
+    "453.4a7f32e0.chunk.js.map": "/mgsurvey/static/js/453.4a7f32e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a831bdce.css",
+    "static/js/main.f9a07e62.js"
+  ]
+}
